@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am currently working on my portfolio. I would appreciate it if you do not copy my code without crediting me, thank you.
 
 <!--
 **SophiaNath/SophiaNath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
